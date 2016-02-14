@@ -51,11 +51,60 @@
 <h3>
 <a id="computational-modeling-and-machine-learning" class="anchor" href="#computational-modeling-and-machine-learning" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Computational Modeling and Machine Learning</h3>
 
+<h2>
+<a id="neural-networks" class="anchor" href="#neural-networks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Neural Networks</h2>
+
+<p>I have implemented and used artificial neural networks to answer many interesting questions and tell many fascinating stories.  Below are some examples of artificial neural networks I've built and used.  </p>
+
+<h1>
+<a id="continuous-attractor-recurrent-neural-network" class="anchor" href="#continuous-attractor-recurrent-neural-network" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Continuous Attractor Recurrent Neural Network</h1>
+
+<p>How does the brain remember locations in space?  I built this artificial neural network to model how information may be remembered.  The network uses recurrent connectivity to maintain the memory of an object even after that object has been removed from the network inputs.</p>
+
+<p><a href="https://github.com/CPapadim/Continuous-Attractor-Neural-Network">Continuous Attractor Recurrent Neural Network</a></p>
+
+<p>I've used this model to test a number of theories of how working memories are stored and transformed.  </p>
+
+<h1>
+<a id="artificial-neural-network-with-backpropagation" class="anchor" href="#artificial-neural-network-with-backpropagation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Artificial Neural Network with Backpropagation</h1>
+
 <p>How does your brain compute the trajectory your arm must move in order to reach an object?  It has to take into account where your eyes are looking, where your hand is now, and where the object is.   First, it needs to calculate the distance between your hand is and where your eyes are looking.  We found that to perform this computation the brain uses the response gain of neurons - by making the gain of eye position and hand position equal and opposite.</p>
 
 <p>I built the neural network model below to model these findings,  The network can learn how to compute the reaching to objects in space through training on a set of training data of objects and reaches.  When we examine the neurons in the network we find that, like what we see in the actual brain, the artificial neural network uses the response gain of neurons to compute the distance between the eye position and the hand position.  </p>
 
 <p><a href="https://github.com/CPapadim/Neural-Network-with-Back-Propagation">Artificial Neural Network with Backpropagation</a></p>
+
+<h2>
+<a id="fun-projects" class="anchor" href="#fun-projects" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Fun Projects</h2>
+
+<h1>
+<a id="league-coach" class="anchor" href="#league-coach" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>League Coach</h1>
+
+<p>The game League of Legends is a competitive sports-like team game.  When I started playing this game I noticed that it does not have an easy, intuitive way to 'keep score'.  The team that is ahead is determined by many factors.  I decided to do something about that.  I created a new measure, the 'probability to win'.  This measure takes into account all of the relevant factors, and condenses them into the single, intuitive measure.  </p>
+
+<p>It works by first training a Random Forest Classifier that is trained on ~250,000 games.  It is trained on all of the complicated features that define the state of each game.  The model makes a prediction on whether a team will win after looking at all the features.  The more confident the model is that a team will win, the higher the 'probability to win' metric will be.  The model can make this prediction at any point in time during the game.</p>
+
+<p>You can try it out by clicking the following link and typing 'Juryiel' as the player name (or use your own player if you play :) )</p>
+
+<p><a href="http://league-coach.net/gsinput">Random Forest Classifier Model</a></p>
+
+<p>The web app also has another function.  It can give advice to novice players by analyzing their most recent games.  It uses an event-triggered average of player behaviors to determine what good players are doing before and after game-critical events.  It then compares user teams to these metrics and gives them advice on how to improve.</p>
+
+<p>You can try it out by clicking the following link and typing 'Juryiel' as the player name.  </p>
+
+<p><a href="http://league-coach.net/coachinput">Game Analysis and Advice</a></p>
+
+<h1>
+<a id="music-classification" class="anchor" href="#music-classification" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Music Classification</h1>
+
+<p>People have used all sorts of cool methods to analyze music, from spectrograms to Recurrent Neural Networks.  I wanted to play with a different method.  I thought that music may be thought of as a language, so I used a model that makes use of Latent Dirichlet Allocation to extract 'topics' from songs, and use these topics to determine what song a short song-sample came from, and what composer wrote the song.  It worked surprisingly well!</p>
+
+<p><a href="https://github.com/CPapadim/Music-Classification">Music Classification</a></p>
+
+<h3>
+<a id="experimental-design" class="anchor" href="#experimental-design" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Experimental Design</h3>
+
+<p>In order to tell a good story you have to do the right experiment.  Here is a document from one of my experimental designs to study working memory.  This design won a highly competitive N.R.S.A grant (~$150,000 in funding) from the National Institutes of Health.</p>
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
