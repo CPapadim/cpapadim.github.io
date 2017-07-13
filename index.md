@@ -134,7 +134,11 @@ People have used all sorts of cool methods to analyze music, from `spectrograms`
 ***
 # Teaching Data Science
 
-I have also created and presented materials including seminars, hands-on labs, and tutorials to intuitively teach data science concepts to others.  Most of this is proprietary work, but you can see a public example at the following link:
+I have also created and presented materials including seminars, hands-on labs, and tutorials to intuitively teach data science concepts to others.  Most of this is proprietary work, but you can see some public examples below.
+
+## Customer Lifetime Value
+
+My Customer Life Value seminar.  The seminar includes a 1-hour hands on lab in which we use MCMC methods (PyMC3) to build and fit a Pareto / NBD model.
 
 [Customer Lifetime Value Webinar](https://www.datascience.com/blog/using-probabilistic-models-to-predict-customer-lifetime-value)
 
