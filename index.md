@@ -1,5 +1,5 @@
 # Hello, I'm Charalampos (Harry),
-![](https://github.com/CPapadim/cpapadim.github.io/raw/master/other/Photo25.png = 200x200) | I'm a `quantitative storyteller`.  I enjoy taking strings of words in the form of questions, turning them into numbers and math, using data to find quantitative answers, and finally turning those quantitative answers into compelling stories.
+<img src = 'https://github.com/CPapadim/cpapadim.github.io/raw/master/other/Photo25.png' width = 99px></img> | I'm a `quantitative storyteller`.  I enjoy taking strings of words in the form of questions, turning them into numbers and math, using data to find quantitative answers, and finally turning those quantitative answers into compelling stories.
 ------------ | -------------
 On this page you will find a few examples of some of the projects I've worked on.  If you have any questions about anything on this page or need to reach me for any reason, you can contact me at papadimitriou.c@gmail.com 
 
