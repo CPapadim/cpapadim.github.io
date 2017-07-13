@@ -3,6 +3,9 @@
 | ------------ | ------------- |
 On this page you will find a few examples of some of the projects I've worked on.  If you have any questions about anything on this page or need to reach me for any reason, you can contact me at papadimitriou.c@gmail.com 
 
+|asdf|asdf|
+|---|---|
+|fdsa|fdsa|
 ***
 
 # Analysis Packages
