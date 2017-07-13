@@ -1,6 +1,6 @@
 # Hello, I'm Charalampos (Harry),
 
-| <img style="width:99px" src = "https://github.com/CPapadim/cpapadim.github.io/raw/master/other/Photo25.png"> | I'm a `quantitative storyteller`.  I enjoy taking strings of words in the form of questions, turning them into numbers and math, using data to find quantitative answers, and finally turning those quantitative answers into compelling stories.|
+| <img style="width:99px; max-width:99px" src = "https://github.com/CPapadim/cpapadim.github.io/raw/master/other/Photo25.png"> | I'm a `quantitative storyteller`.  I enjoy taking strings of words in the form of questions, turning them into numbers and math, using data to find quantitative answers, and finally turning those quantitative answers into compelling stories.|
 | ------------ | ------------- |
 | | |
 
