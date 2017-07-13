@@ -28,7 +28,7 @@ I wrote this package to determine how neuron spikes are related to behavior.  It
 ![](https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/BehaviorNeural.png)
 
 ***
-#Experimental Design
+# Experimental Design
 
 In order to tell a good story you have to do the `right experiment`.  Below is a document outlining one of my experimental designs to study working memory.  This design won a highly competitive `N.R.S.A grant (~$150,000 in funding) from the National Institutes of Health`.
 
@@ -87,7 +87,7 @@ These are some reviews of this work:
 >“[This work] to my view represents `a particularly nice coupling of theory and experiment.`”
 
 ***
-#Consulting Work
+# Consulting Work
 
 Not all stories I tell have an academic focus.  I've also worked as a `consultant` and `project manager` to provide `analysis and data-based insights` for a number of companies in various industries.  Below you can see a couple of examples of the types of projects I worked on.  Due to NDAs and other confidentiality agreements, most of the content has been redacted, but you can get a general idea of the types of projects and work I've done.
 
@@ -99,7 +99,7 @@ I was nominated for an award for my work on some of these projects (though, as a
 >"I am writing to let you know that you were recently nominated for the `Outstanding Consultant award` for The BALSA Group. [...] your nomination is in recognition of your `hard work` on your most recent project and for BALSA as a whole. Though you were not eligible to win [because you are] a current Project Manager, we appreciate your continued dedication to our organization." 
 
 ***
-#Fun with Machine Learning
+# Fun with Machine Learning
 
 ##League Coach 
 The game League of Legends is a competitive sports-like team game.  When I started playing this game I noticed that it does not have an easy, intuitive way to 'keep score'.  The team that is ahead is determined by many factors.  I decided to `do something about that.`  I created a new measure, the `probability to win`.  This measure takes into account all of the relevant factors, and condenses them into the single, intuitive measure.  
@@ -114,10 +114,6 @@ You can try it out by clicking the following link.   Please note that the web ap
 
 The web app also has another function.  It can `give advice to novice players` by analyzing their most recent games.  It uses an `event-triggered average` of player behaviors to determine what good players are doing before and after game-critical events.  It then compares user teams to these metrics and gives them advice on how to improve.
 
-You can try it out by clicking the following link. 
-
-[Game Analysis and Advice](http://league-coach.net/coachinput)
-
 ![](https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/Advice.png)
 
 For more information about how this project was done, you can see this slideshow:
@@ -126,14 +122,21 @@ For more information about how this project was done, you can see this slideshow
 You can find the code here:
 [League Coach Code](https://github.com/CPapadim/LeagueCoach)
 
-##Music Classification
+## Music Classification
 
 People have used all sorts of cool methods to analyze music, from `spectrograms` to `Recurrent Neural Networks`.  I wanted to play with a different method.  I thought that music may be thought of as a language, so I used a model that makes use of `Latent Dirichlet Allocation` to extract `topics` from songs, and uses these topics to determine what song a short song-sample came from, and which composer wrote the song.  It worked surprisingly well!
 
 [Music Classification](https://github.com/CPapadim/Music-Classification/blob/master/MusicClassification.ipynb)
 
 ***
-#The Arts
+# Teaching Data Science
+
+I have also created and presented materials including seminars, hands-on labs, and tutorials to intuitively teach data science concepts to others.  Most of this is proprietary work, but you can see a public example at the following link:
+
+[Customer Lifetime Value Webinar](https://www.datascience.com/blog/using-probabilistic-models-to-predict-customer-lifetime-value)
+
+***
+# The Arts
 
 When I'm not playing with data I like to dabble in the arts.  You can see some of my previous digital art projects here:
 
