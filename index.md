@@ -67,7 +67,7 @@ I built a `neural network with back propagation` to model these findings,  The n
 
 ![](https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BackPropNN.jpg)
 
-##Working Memory
+## Working Memory
 
 I used the tools and computational models I mentioned above to ask and answer questions about how brains work.  Here you can find an example of a research project that involves collecting data, devising analyses, and building computational models to tell a story about how working memory works.
 
@@ -140,9 +140,9 @@ I have also created and presented materials including seminars, hands-on labs, a
 
 In this series I cover supervised learning.  I start by covering the two competing goals of supervised learning (reducing error, and regularizing to reduce complexity, aka. bias / variance tradeoff, aka. over / underfitting).  I then discuss theory and intuition behind each algorithm, and provide code snippets for simple implementations.  
 
-[Part 1](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-1.ipynb)
+[Part 1 - Algorithms With Linear Decision Boundaries](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-1.ipynb)
 
-[Part 2](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-2.ipynb)
+[Part 2 - Algorithms With Non-Linear Decision Boundaries](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-2.ipynb)
 
 ## Customer Lifetime Value
 
