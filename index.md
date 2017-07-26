@@ -104,7 +104,7 @@ I was nominated for an award for my work on some of these projects (though, as a
 ***
 # Fun with Machine Learning
 
-##League Coach 
+## League Coach 
 The game League of Legends is a competitive sports-like team game.  When I started playing this game I noticed that it does not have an easy, intuitive way to 'keep score'.  The team that is ahead is determined by many factors.  I decided to `do something about that.`  I created a new measure, the `probability to win`.  This measure takes into account all of the relevant factors, and condenses them into the single, intuitive measure.  
 
 It works by first `training a Random Forest Classifier` that is trained on ~250,000 games.  It is trained on all of the complicated features that define the state of each game.  The model makes a prediction on whether a team will win after looking at all the features.  The more confident the model is that a team will win, the higher the 'probability to win' metric will be.  The model can make this prediction at any point in time during the game and performs with very high accuracy.
