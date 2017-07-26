@@ -134,7 +134,15 @@ People have used all sorts of cool methods to analyze music, from `spectrograms`
 ***
 # Teaching Data Science
 
-I have also created and presented materials including seminars, hands-on labs, and tutorials to intuitively teach data science concepts to others.  Most of this is proprietary work, but you can see some public examples below.
+I have also created and presented materials including seminars, hands-on labs, and tutorials to intuitively teach data science concepts to others, including Data Scientists and C-Level executives.  Most of this is proprietary work, but you can see some public examples below.
+
+## Overview of Supervised Machine Learning
+
+In this series I cover supervised learning.  I start by covering the two competing goals of supervised learning (reducing error, and regularizing to reduce complexity, aka. bias / variance tradeoff, aka. over / underfitting).  I then discuss theory and intuition behind each algorithm, and provide code snippets for simple implementations.  
+
+[Part 1](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-1.ipynb)
+
+[Part 2](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-2.ipynb)
 
 ## Customer Lifetime Value
 
