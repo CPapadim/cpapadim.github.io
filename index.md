@@ -76,6 +76,7 @@ Here are two versions of the story.  A `technical` one and a `conceptual` one.  
 [Intuitive Version](https://github.com/CPapadim/cpapadim.github.io/raw/master/other/AllPanels.pdf)
 
 [Technical Version - Paper](https://academic.oup.com/cercor/article/3056352)
+<br>
 [Technical Version - Poster](https://github.com/CPapadim/cpapadim.github.io/raw/master/other/Poster.pdf)
 
 These are some reviews of this work:
