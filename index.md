@@ -75,7 +75,8 @@ Here are two versions of the story.  A `technical` one and a `conceptual` one.  
 
 [Intuitive Version](https://github.com/CPapadim/cpapadim.github.io/raw/master/other/AllPanels.pdf)
 
-[Technical Version](https://github.com/CPapadim/cpapadim.github.io/raw/master/other/Poster.pdf)
+[Technical Version - Paper](https://academic.oup.com/cercor/article/3056352)
+[Technical Version - Poster](https://github.com/CPapadim/cpapadim.github.io/raw/master/other/Poster.pdf)
 
 These are some reviews of this work:
 
@@ -156,3 +157,5 @@ My Customer Life Value seminar.  The seminar includes a 1-hour hands on lab in w
 When I'm not playing with data I like to dabble in the arts.  You can see some of my previous digital art projects here:
 
 [My deviantArt page](http://juryiel.deviantart.com/)
+
+
