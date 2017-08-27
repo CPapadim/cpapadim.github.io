@@ -49,7 +49,7 @@ These are some of the reviews of the design:
 
 I have implemented and used `artificial neural networks` to answer many interesting questions and tell many fascinating stories.  Below are some examples of artificial neural networks I've built and used.  
 
-###Continuous Attractor Recurrent Neural Network
+### Continuous Attractor Recurrent Neural Network
 How does the brain remember locations in space?  I built this `artificial recurrent line attractor neural network` to model how information is remembered.  The network uses recurrent connectivity to maintain the memory of an object even after that object has been removed from the network inputs.
 
 [Continuous Attractor Recurrent Neural Network](https://github.com/CPapadim/Continuous-Attractor-Neural-Network)
@@ -145,6 +145,12 @@ In this series I cover supervised learning.  I start by covering the two competi
 [Part 1 - Algorithms With Linear Decision Boundaries](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-1.ipynb)
 
 [Part 2 - Algorithms With Non-Linear Decision Boundaries](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-2.ipynb)
+
+## Image Recognition With Deep Learning
+
+In this seminar I cover concepts behind deep convolutional neural network in the context of image recognition.  There is also a hands on lab in which we build a simple CNN from scratch, and use data augmentation methods to improve generalizability of the network.  We also learn how to use a pre-trained network and fine-tune it to our data.
+
+[Image Recognition With Deep Learning Webinar](https://www.datascience.com/typ/image-recognition-with-deep-learning?submissionGuid=f38f78e8-227b-4cbb-9fe3-84d3601ce44a)
 
 ## Customer Lifetime Value
 
