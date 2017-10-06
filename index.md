@@ -18,7 +18,7 @@ I have created and presented materials including seminars, hands-on labs, and tu
 <h2>Image Recognition With Deep Learning</h2>
 
 In this seminar I cover concepts behind deep convolutional neural network in the context of image recognition.  There is also a hands on lab in which we build a simple CNN from scratch, and use data augmentation methods to improve generalizability of the network.  We also learn how to use a pre-trained network and fine-tune it to our data.  Finally, we talk about how to interpret neural network models to make sure they are using the correct parts of the images in their tasks.
-
+<br><br>
 <a href="https://www.datascience.com/typ/image-recognition-with-deep-learning?submissionGuid=f38f78e8-227b-4cbb-9fe3-84d3601ce44a">Image Recognition With Deep Learning Webinar</a>
 </div>
 
@@ -26,7 +26,7 @@ In this seminar I cover concepts behind deep convolutional neural network in the
 <h2>Customer Lifetime Value</h2>
 
 My Customer Life Value seminar.  The seminar includes a 1-hour hands on lab in which we use MCMC methods (PyMC3) to build and fit a Pareto / NBD model.
-
+<br><br>
 <a href = "https://www.datascience.com/blog/using-probabilistic-models-to-predict-customer-lifetime-value">Customer Lifetime Value Webinar</a>
 </div>
 
@@ -34,9 +34,9 @@ My Customer Life Value seminar.  The seminar includes a 1-hour hands on lab in w
 <h2>Overview of Supervised Machine Learning</h2>
 
 In this series I cover supervised learning.  I start by covering the two competing goals of supervised learning (reducing error, and regularizing to reduce complexity, aka. bias / variance tradeoff, aka. over / underfitting).  I then discuss theory and intuition behind each algorithm, and provide code snippets for simple implementations.  
-
+<br><br>
 <a href = "https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-1.ipynb">Part 1 - Algorithms With Linear Decision Boundaries</a>
-
+<br><br>
 <a href ="https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-2.ipynb">Part 2 - Algorithms With Non-Linear Decision Boundaries</a>
 
 </div>
@@ -56,34 +56,34 @@ I have implemented and used `artificial neural networks` to answer many interest
 <div class="section-content">
 <h3>Continuous Attractor Recurrent Neural Network</h3>
 How does the brain remember locations in space?  I built this `artificial recurrent line attractor neural network` to model how information is remembered.  The network uses recurrent connectivity to maintain the memory of an object even after that object has been removed from the network inputs.
-
+<br><br>
 <a href = "https://github.com/CPapadim/Continuous-Attractor-Neural-Network">Continuous Attractor Recurrent Neural Networks</a>
-
-<img src = https://github.com/CPapadim/cpapadim.github.io/raw/master/other/AttractorNetwork.png></img>
-
+<br><br>
+<img src = https://github.com/CPapadim/cpapadim.github.io/raw/master/other/AttractorNetwork.png>
+<br><br>
 I've used this model to test a number of theories of how working memories are stored and transformed.  
 </div>
 
 <div class="section-content">
 <h3>Artificial Neural Network with Backpropagation</h3>
 How does your brain compute the trajectory your arm must move in order to reach an object?  It has to take into account where your eyes are looking, where your hand is now, and where the object is.   First, it needs to calculate the distance between your hand is and where your eyes are looking.  We found that to perform this computation the brain uses the response gain of neurons - by making the gain of eye position and hand position equal and opposite.
-
+<br><br>
 I built a `neural network with back propagation` to model these findings,  The network can `learn how to compute the reaching to objects in space through training` on a set of training data of objects and reaches.  When we examine the neurons in the network we find that, like what we see in the actual brain, the artificial neural network uses the response gain of neurons to compute the distance between the eye position and the hand position.  
-
+<br><br>
 <a href="https://github.com/CPapadim/Neural-Network-with-Back-Propagation">Artificial Neural Network With Backpropagation</a>
-
-<img src="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BackPropNN.jpg"></img>
+<br><br>
+<img src="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BackPropNN.jpg">
 </div>
 
 <div class="section-content">
 <h2>Working Memory</h2>
 
 I used the tools and computational models I mentioned above to ask and answer questions about how brains work.  Here you can find an example of a research project that involves collecting data, devising analyses, and building computational models to tell a story about how working memory works.
-
+<br><br>
 Here are two versions of the story.  A `technical` one and a `conceptual` one.  Take a look at the one you feel is most appropriate for you.  I personally prefer the conceptual one because I think it's more fun, and contains just as much of the story as the technical version.
-
+<br><br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/AllPanels.pdf">Intuitive Version</a>
-
+<br><br>
 <a href="https://academic.oup.com/cercor/article/3056352">Technical Version - Paper</a>
 <br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/Poster.pdf">Technical Version - Poster</a>
@@ -111,11 +111,11 @@ In the pursuit to understand and tell the right story, we often need to build cu
 <h2>Signal Processing Toolkit</h2>
 
 When the Snyder Laboratory wanted to expand into analysis of local field potentials, I stepped up to develop this package to help me and other lab mates analyze and understand how brains work.  It can analyze `time series` of action potentials and local field potentials from the brain in both the `frequency` and `time` domains to help users uncover how these different brain signals relate to each other and contribute to driving behavior.  
-
+<br><br>
 <a href="https://github.com/CPapadim/Signal-Processing-Toolkit">Signal Processing Toolkit</a>
-
-<img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/LFP1.png"></img>
-<img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/LFP2.png"></img>
+<br><br>
+<img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/LFP1.png"><br>
+<img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/LFP2.png">
 
 This tool is now being used by a new generation of upcoming scientists in the Snyder Laboratory. 
 </div>
@@ -124,10 +124,10 @@ This tool is now being used by a new generation of upcoming scientists in the Sn
 <h2>Behavioral and Neural Analysis Toolkit</h2>
 
 I wrote this package to determine how neuron spikes are related to behavior.  It can analyze and quantify behavior, especially in the context of eye movements and working memory.  It can also align neural data to these behaviors to help determine how neural activity changes drive these behaviors.  
-
+<br><br>
 <a href ="https://github.com/CPapadim/Behavioral-and-Neural-Analysis-Toolkit">Behavioral and Neural Analysis Toolkit</a>
-
-<img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/BehaviorNeural.png"></img>
+<br><br>
+<img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/BehaviorNeural.png">
 
 </div>
 ***
@@ -136,7 +136,7 @@ I wrote this package to determine how neuron spikes are related to behavior.  It
 <h1>Experimental Design</h1>
 
 In order to tell a good story you have to do the `right experiment`.  Below is a document outlining one of my experimental designs to study working memory.  This design won a highly competitive `N.R.S.A grant (~$150,000 in funding) from the National Institutes of Health`.
-
+<br><br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/blob/master/other/ExperimentalDesign.pdf">Experimental Design Document</a>
 </div>
 
@@ -150,9 +150,9 @@ These are some of the reviews of the design:
 <h1>Consulting Work</h1>
 
 I've also worked as a `consultant` and `project manager` to provide `analysis and data-based insights` for a number of companies in various industries.  Below you can see a couple of examples of the types of projects I worked on.  Due to NDAs and other confidentiality agreements, most of the content has been redacted, but you can get a general idea of the types of projects and work I've done.
-
+<br><br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BusinessAnalysisProject1.pdf">Project 1:  Evaluate investment opportunities</a>
-
+<br><br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BusinessAnalysisProject2.pdf">Project 2:  Evaluate viability of a new business venture and product</a>
 </div>
 I was nominated for an award for my work on some of these projects (though, as a Project Mananger, it was not possible for me to win).
@@ -172,16 +172,16 @@ The game League of Legends is a competitive sports-like team game.  When I start
 It works by first `training a Random Forest Classifier` that is trained on ~250,000 games.  It is trained on all of the complicated features that define the state of each game.  The model makes a prediction on whether a team will win after looking at all the features.  The more confident the model is that a team will win, the higher the 'probability to win' metric will be.  The model can make this prediction at any point in time during the game and performs with very high accuracy.
 
 You can try it out by clicking the following link.   Please note that the web app queries the Riot API several times for game data, and that API has a time limit between queries.  Several queries are needed, and the app can take up to 30 seconds to produce a result due to this time limit.  
-
-<img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/RFProbWin.png"></img>
-
+<br><br>
+<img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/RFProbWin.png">
+<br><br>
 The web app also has another function.  It can `give advice to novice players` by analyzing their most recent games.  It uses an `event-triggered average` of player behaviors to determine what good players are doing before and after game-critical events.  It then compares user teams to these metrics and gives them advice on how to improve.
-
-<img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/Advice.png"></img>
-
+<br><br>
+<img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/Advice.png">
+<br><br>
 For more information about how this project was done, you can see this slideshow:
 <a href="http://www.slidego.com/go/18272">League Coach Slides</a>
-
+<br><br>
 You can find the code here:
 <a href="https://github.com/CPapadim/LeagueCoach">League Coach Code</a>
 </div>
@@ -190,7 +190,7 @@ You can find the code here:
 <h2>Music Classification</h2>
 
 People have used all sorts of cool methods to analyze music, from `spectrograms` to `Recurrent Neural Networks`.  I wanted to play with a different method.  I thought that music may be thought of as a language, so I used a model that makes use of `Latent Dirichlet Allocation` to extract `topics` from songs, and uses these topics to determine what song a short song-sample came from, and which composer wrote the song.  It worked surprisingly well!
-
+<br><br>
 <a href="https://github.com/CPapadim/Music-Classification/blob/master/MusicClassification.ipynb">Music Classification</a>
 
 </div>
@@ -199,6 +199,6 @@ People have used all sorts of cool methods to analyze music, from `spectrograms`
 <h1>The Arts</h1>
 
 When I'm not playing with data I like to dabble in the arts.  You can see some of my previous digital art projects here:
-
+<br><br>
 <a href="http://juryiel.deviantart.com/">My deviantArt page</a>
 </div>
