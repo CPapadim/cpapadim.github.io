@@ -1008,3 +1008,10 @@ footer {
     width: auto;
   }
 }
+
+/* Harry Edits */
+
+nav {
+  position:absolute;
+  top:0px;
+}
