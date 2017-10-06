@@ -7,11 +7,12 @@
 On this page you will find a few examples of some of the projects I've worked on.  If you have any questions about anything on this page or need to reach me for any reason, you can contact me at papadimitriou.c@gmail.com 
 
 ***
-<span class="content-section">
+<p class="content-section">
 # Teaching Data Science
 
 I have created and presented materials including seminars, hands-on labs, and tutorials to intuitively teach data science concepts to others, including Data Scientists and C-Level executives.  Most of this is proprietary work, but you can see some public examples below.
-</span>
+
+</p>
 
 ## Image Recognition With Deep Learning
 
