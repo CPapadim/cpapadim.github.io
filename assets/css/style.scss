@@ -12,3 +12,12 @@ section table {
   border:1px solid #eeeeee;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
 }
+
+div.section-content:hover {
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+div.section-content {
+  margin-bottom:15px;
+}
