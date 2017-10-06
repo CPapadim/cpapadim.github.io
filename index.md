@@ -50,12 +50,12 @@ I've been involved in research for many years, focusing on modeling complex syst
 <div class="section-content">
 <h2>Neural Networks, Computational Modeling, and Machine Learning</h2>
 
-I have implemented and used `artificial neural networks` to answer many interesting questions and tell many fascinating stories.  Below are some examples of artificial neural networks I've built and used.  
+I have implemented and used <code class="highlighter-rouge">artificial neural networks</code> to answer many interesting questions and tell many fascinating stories.  Below are some examples of artificial neural networks I've built and used.  
 </div>
 
 <div class="section-content">
 <h3>Continuous Attractor Recurrent Neural Network</h3>
-How does the brain remember locations in space?  I built this `artificial recurrent line attractor neural network` to model how information is remembered.  The network uses recurrent connectivity to maintain the memory of an object even after that object has been removed from the network inputs.
+How does the brain remember locations in space?  I built this <code class="highlighter-rouge">artificial recurrent line attractor neural network</code> to model how information is remembered.  The network uses recurrent connectivity to maintain the memory of an object even after that object has been removed from the network inputs.
 <br><br>
 <a href = "https://github.com/CPapadim/Continuous-Attractor-Neural-Network">Continuous Attractor Recurrent Neural Networks</a>
 <br><br>
@@ -68,7 +68,7 @@ I've used this model to test a number of theories of how working memories are st
 <h3>Artificial Neural Network with Backpropagation</h3>
 How does your brain compute the trajectory your arm must move in order to reach an object?  It has to take into account where your eyes are looking, where your hand is now, and where the object is.   First, it needs to calculate the distance between your hand is and where your eyes are looking.  We found that to perform this computation the brain uses the response gain of neurons - by making the gain of eye position and hand position equal and opposite.
 <br><br>
-I built a `neural network with back propagation` to model these findings,  The network can `learn how to compute the reaching to objects in space through training` on a set of training data of objects and reaches.  When we examine the neurons in the network we find that, like what we see in the actual brain, the artificial neural network uses the response gain of neurons to compute the distance between the eye position and the hand position.  
+I built a <code class="highlighter-rouge">neural network with back propagation</code> to model these findings,  The network can <code class="highlighter-rouge">learn how to compute the reaching to objects in space through training</code> on a set of training data of objects and reaches.  When we examine the neurons in the network we find that, like what we see in the actual brain, the artificial neural network uses the response gain of neurons to compute the distance between the eye position and the hand position.  
 <br><br>
 <a href="https://github.com/CPapadim/Neural-Network-with-Back-Propagation">Artificial Neural Network With Backpropagation</a>
 <br><br>
@@ -80,7 +80,7 @@ I built a `neural network with back propagation` to model these findings,  The n
 
 I used the tools and computational models I mentioned above to ask and answer questions about how brains work.  Here you can find an example of a research project that involves collecting data, devising analyses, and building computational models to tell a story about how working memory works.
 <br><br>
-Here are two versions of the story.  A `technical` one and a `conceptual` one.  Take a look at the one you feel is most appropriate for you.  I personally prefer the conceptual one because I think it's more fun, and contains just as much of the story as the technical version.
+Here are two versions of the story.  A <code class="highlighter-rouge">technical</code> one and a <code class="highlighter-rouge">conceptual</code> one.  Take a look at the one you feel is most appropriate for you.  I personally prefer the conceptual one because I think it's more fun, and contains just as much of the story as the technical version.
 <br><br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/AllPanels.pdf">Intuitive Version</a>
 <br><br>
@@ -110,7 +110,7 @@ In the pursuit to understand and tell the right story, we often need to build cu
 <div class="section-content">
 <h2>Signal Processing Toolkit</h2>
 
-When the Snyder Laboratory wanted to expand into analysis of local field potentials, I stepped up to develop this package to help me and other lab mates analyze and understand how brains work.  It can analyze `time series` of action potentials and local field potentials from the brain in both the `frequency` and `time` domains to help users uncover how these different brain signals relate to each other and contribute to driving behavior.  
+When the Snyder Laboratory wanted to expand into analysis of local field potentials, I stepped up to develop this package to help me and other lab mates analyze and understand how brains work.  It can analyze <code class="highlighter-rouge">time series</code> of action potentials and local field potentials from the brain in both the <code class="highlighter-rouge">frequency</code> and <code class="highlighter-rouge">time</code> domains to help users uncover how these different brain signals relate to each other and contribute to driving behavior.  
 <br><br>
 <a href="https://github.com/CPapadim/Signal-Processing-Toolkit">Signal Processing Toolkit</a>
 <br><br>
@@ -135,7 +135,7 @@ I wrote this package to determine how neuron spikes are related to behavior.  It
 <div class="section-content">
 <h1>Experimental Design</h1>
 
-In order to tell a good story you have to do the `right experiment`.  Below is a document outlining one of my experimental designs to study working memory.  This design won a highly competitive `N.R.S.A grant (~$150,000 in funding) from the National Institutes of Health`.
+In order to tell a good story you have to do the <code class="highlighter-rouge">right experiment</code>.  Below is a document outlining one of my experimental designs to study working memory.  This design won a highly competitive <code class="highlighter-rouge">N.R.S.A grant (~$150,000 in funding) from the National Institutes of Health</code>.
 <br><br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/blob/master/other/ExperimentalDesign.pdf">Experimental Design Document</a>
 </div>
@@ -149,14 +149,14 @@ These are some of the reviews of the design:
 <div class="section-content">
 <h1>Consulting Work</h1>
 
-I've also worked as a `consultant` and `project manager` to provide `analysis and data-based insights` for a number of companies in various industries.  Below you can see a couple of examples of the types of projects I worked on.  Due to NDAs and other confidentiality agreements, most of the content has been redacted, but you can get a general idea of the types of projects and work I've done.
+I've also worked as a <code class="highlighter-rouge">consultant</code> and <code class="highlighter-rouge">project manager</code> to provide <code class="highlighter-rouge">analysis and data-based insights</code> for a number of companies in various industries.  Below you can see a couple of examples of the types of projects I worked on.  Due to NDAs and other confidentiality agreements, most of the content has been redacted, but you can get a general idea of the types of projects and work I've done.
 <br><br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BusinessAnalysisProject1.pdf">Project 1:  Evaluate investment opportunities</a>
 <br><br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BusinessAnalysisProject2.pdf">Project 2:  Evaluate viability of a new business venture and product</a>
 </div>
-I was nominated for an award for my work on some of these projects (though, as a Project Mananger, it was not possible for me to win).
->"I am writing to let you know that you were recently nominated for the `Outstanding Consultant award` for The BALSA Group. [...] your nomination is in recognition of your `hard work` on your most recent project and for BALSA as a whole. Though you were not eligible to win [because you are] a current Project Manager, we appreciate your continued dedication to our organization." 
+I was nominated for an award for my work on some of these projects.
+>"I am writing to let you know that you were recently nominated for the `Outstanding Consultant award<` for The BALSA Group. [...] your nomination is in recognition of your `hard work` on your most recent project and for BALSA as a whole. Though you were not eligible to win [because you are] a current Project Manager, we appreciate your continued dedication to our organization." 
 
 ***
 <div class="section-content">
@@ -167,13 +167,13 @@ On occasion, I play with machine learning models to tackle interesting projecs. 
 
 <div class="section-content">
 <h2>League Coach</h2>
-The game League of Legends is a competitive sports-like team game.  When I started playing this game I noticed that it does not have an easy, intuitive way to 'keep score'.  The team that is ahead is determined by many factors.  I decided to `do something about that.`  I created a new measure, the `probability to win`.  This measure takes into account all of the relevant factors, and condenses them into the single, intuitive measure.  
+The game League of Legends is a competitive sports-like team game.  When I started playing this game I noticed that it does not have an easy, intuitive way to keep score.  The team that is ahead is determined by many factors.  I decided to <code class="highlighter-rouge">do something about that.</code>  I created a new measure, the <code class="highlighter-rouge">probability to win</code>.  This measure takes into account all of the relevant factors, and condenses them into the single, intuitive measure.  
 <br><br>
-It works by first `training a Random Forest Classifier` that is trained on ~250,000 games.  It is trained on all of the complicated features that define the state of each game.  The model makes a prediction on whether a team will win after looking at all the features.  The more confident the model is that a team will win, the higher the 'probability to win' metric will be.  The model can make this prediction at any point in time during the game and performs with very high accuracy.
+It works by first <code class="highlighter-rouge">training a Random Forest Classifier</code> that is trained on ~250,000 games.  It is trained on all of the complicated features that define the state of each game.  The model makes a prediction on whether a team will win after looking at all the features.  The more confident the model is that a team will win, the higher the <code class="highlighter-rouge">probability to win</code> metric will be.  The model can make this prediction at any point in time during the game and performs with very high accuracy.
 <br><br>
 <img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/RFProbWin.png">
 <br><br>
-The web app also has another function.  It can `give advice to novice players` by analyzing their most recent games.  It uses an `event-triggered average` of player behaviors to determine what good players are doing before and after game-critical events.  It then compares user teams to these metrics and gives them advice on how to improve.
+The web app also has another function.  It can <code class="highlighter-rouge">give advice to novice players</code> by analyzing their most recent games.  It uses an <code class="highlighter-rouge">event-triggered average</code> of player behaviors to determine what good players are doing before and after game-critical events.  It then compares user teams to these metrics and gives them advice on how to improve.
 <br><br>
 <img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/Advice.png">
 <br><br>
@@ -187,7 +187,7 @@ You can find the code here:
 <div class="section-content">
 <h2>Music Classification</h2>
 
-People have used all sorts of cool methods to analyze music, from `spectrograms` to `Recurrent Neural Networks`.  I wanted to play with a different method.  I thought that music may be thought of as a language, so I used a model that makes use of <code class="highlighter-rouge">Latent Dirichlet Allocation</code> to extract `topics` from songs, and uses these topics to determine what song a short song-sample came from, and which composer wrote the song.  It worked surprisingly well!
+People have used all sorts of cool methods to analyze music, from <code class="highlighter-rouge">spectrograms</code> to <code class="highlighter-rouge">Recurrent Neural Networks</code>.  I wanted to play with a different method.  I thought that music may be thought of as a language, so I used a model that makes use of <code class="highlighter-rouge">Latent Dirichlet Allocation</code> to extract <code class="highlighter-rouge">topics</code> from songs, and uses these topics to determine what song a short song-sample came from, and which composer wrote the song.  It worked surprisingly well!
 <br><br>
 <a href="https://github.com/CPapadim/Music-Classification/blob/master/MusicClassification.ipynb">Music Classification</a>
 
