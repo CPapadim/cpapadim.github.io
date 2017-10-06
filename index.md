@@ -59,7 +59,7 @@ How does the brain remember locations in space?  I built this `artificial recurr
 <br><br>
 <a href = "https://github.com/CPapadim/Continuous-Attractor-Neural-Network">Continuous Attractor Recurrent Neural Networks</a>
 <br><br>
-<img src = https://github.com/CPapadim/cpapadim.github.io/raw/master/other/AttractorNetwork.png>
+<img src = "https://github.com/CPapadim/cpapadim.github.io/raw/master/other/AttractorNetwork.png">
 <br><br>
 I've used this model to test a number of theories of how working memories are stored and transformed.  
 </div>
@@ -168,10 +168,8 @@ On occasion, I play with machine learning models to tackle interesting projecs. 
 <div class="section-content">
 <h2>League Coach</h2>
 The game League of Legends is a competitive sports-like team game.  When I started playing this game I noticed that it does not have an easy, intuitive way to 'keep score'.  The team that is ahead is determined by many factors.  I decided to `do something about that.`  I created a new measure, the `probability to win`.  This measure takes into account all of the relevant factors, and condenses them into the single, intuitive measure.  
-
+<br><br>
 It works by first `training a Random Forest Classifier` that is trained on ~250,000 games.  It is trained on all of the complicated features that define the state of each game.  The model makes a prediction on whether a team will win after looking at all the features.  The more confident the model is that a team will win, the higher the 'probability to win' metric will be.  The model can make this prediction at any point in time during the game and performs with very high accuracy.
-
-You can try it out by clicking the following link.   Please note that the web app queries the Riot API several times for game data, and that API has a time limit between queries.  Several queries are needed, and the app can take up to 30 seconds to produce a result due to this time limit.  
 <br><br>
 <img src="https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/RFProbWin.png">
 <br><br>
