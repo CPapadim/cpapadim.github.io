@@ -155,7 +155,9 @@ I've also worked as a <code class="highlighter-rouge">consultant</code> and <cod
 <br><br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BusinessAnalysisProject2.pdf">Project 2:  Evaluate viability of a new business venture and product</a>
 </div>
+
 I was nominated for an award for my work on some of these projects.
+
 >"I am writing to let you know that you were recently nominated for the `Outstanding Consultant award` for The BALSA Group. [...] your nomination is in recognition of your `hard work` on your most recent project and for BALSA as a whole. Though you were not eligible to win [because you are] a current Project Manager, we appreciate your continued dedication to our organization." 
 
 ***
