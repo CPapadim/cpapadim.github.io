@@ -19,7 +19,7 @@ I have created and presented materials including seminars, hands-on labs, and tu
 
 In this seminar I cover concepts behind deep convolutional neural network in the context of image recognition.  There is also a hands on lab in which we build a simple CNN from scratch, and use data augmentation methods to improve generalizability of the network.  We also learn how to use a pre-trained network and fine-tune it to our data.  Finally, we talk about how to interpret neural network models to make sure they are using the correct parts of the images in their tasks.
 
-<a href = "https://www.datascience.com/typ/image-recognition-with-deep-learning?submissionGuid=f38f78e8-227b-4cbb-9fe3-84d3601ce44a>Image Recognition With Deep Learning Webinar</a>
+<a href="https://www.datascience.com/typ/image-recognition-with-deep-learning?submissionGuid=f38f78e8-227b-4cbb-9fe3-84d3601ce44a">Image Recognition With Deep Learning Webinar</a>
 </div>
 
 <div class="section-content">
@@ -151,7 +151,7 @@ These are some of the reviews of the design:
 
 I've also worked as a `consultant` and `project manager` to provide `analysis and data-based insights` for a number of companies in various industries.  Below you can see a couple of examples of the types of projects I worked on.  Due to NDAs and other confidentiality agreements, most of the content has been redacted, but you can get a general idea of the types of projects and work I've done.
 
-<a -href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BusinessAnalysisProject1.pdf">Project 1:  Evaluate investment opportunities</a>
+<a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BusinessAnalysisProject1.pdf">Project 1:  Evaluate investment opportunities</a>
 
 <a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BusinessAnalysisProject2.pdf">Project 2:  Evaluate viability of a new business venture and product</a>
 </div>
