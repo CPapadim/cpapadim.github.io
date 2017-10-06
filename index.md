@@ -1,46 +1,36 @@
 # Hello, I'm Charalampos (Harry),
 
-| <img style="width:99px; max-width:99px" src = "https://github.com/CPapadim/cpapadim.github.io/raw/master/other/Photo25.png"> | I'm a `quantitative storyteller`.  I enjoy taking strings of words in the form of questions, turning them into numbers and math, using data to find quantitative answers, and finally turning those quantitative answers into compelling stories.|
+| <img style="width:99px; max-width:99px" src = "https://github.com/CPapadim/cpapadim.github.io/raw/master/other/Photo25.png"> |I'm an experienced Data Scientist and Researcher with over a decade of experience in modeling and analytics, specializing in both applied and theoretical machine learning, as well as experimental design.  I'm a `quantitative storyteller`, and passionate about making data science more accessible through intuitive communication of technical concepts.  I've worked on a number of business challenges, including sales forecasting, marketing problems, image processing, recommendation systems, and many others.  Previously, I worked as a computational neuroscience researcher at Washington University in St. Louis, where I modeled the dynamics of working memory neural circuits.|
 | ------------ | ------------- |
 | | [LinkedIn](https://www.linkedin.com/in/charalampospapadimitriou/) |
 
 On this page you will find a few examples of some of the projects I've worked on.  If you have any questions about anything on this page or need to reach me for any reason, you can contact me at papadimitriou.c@gmail.com 
 
 ***
+# Teaching Data Science
 
-# Analysis Packages
-In order to tell truly compelling stories about data a storyteller often needs to create customized storytelling tools.  
+I have created and presented materials including seminars, hands-on labs, and tutorials to intuitively teach data science concepts to others, including Data Scientists and C-Level executives.  Most of this is proprietary work, but you can see some public examples below.
 
-## Signal Processing Toolkit
+## Image Recognition With Deep Learning
 
-When the Snyder Laboratory wanted to expand into analysis of local field potentials, I stepped up to develop this package to help me and other lab mates tell stories about how brains work.  It can analyze `time series` of action potentials and local field potentials from the brain in both the `frequency` and `time` domains to help users uncover how these different brain signals relate to each other and contribute to driving behavior.  
+In this seminar I cover concepts behind deep convolutional neural network in the context of image recognition.  There is also a hands on lab in which we build a simple CNN from scratch, and use data augmentation methods to improve generalizability of the network.  We also learn how to use a pre-trained network and fine-tune it to our data.  Finally, we talk about how to interpret neural network models to make sure they are using the correct parts of the images in their tasks.
 
-[Signal Processing Toolkit](https://github.com/CPapadim/Signal-Processing-Toolkit)
+[Image Recognition With Deep Learning Webinar](https://www.datascience.com/typ/image-recognition-with-deep-learning?submissionGuid=f38f78e8-227b-4cbb-9fe3-84d3601ce44a)
 
-![](https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/LFP1.png)
-![](https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/LFP2.png)
 
-This tool is now being used by a new generation of upcoming scientists in the Snyder Laboratory. 
+## Customer Lifetime Value
 
-## Behavioral and Neural Analysis Toolkit
+My Customer Life Value seminar.  The seminar includes a 1-hour hands on lab in which we use MCMC methods (PyMC3) to build and fit a Pareto / NBD model.
 
-I wrote this package to determine how neuron spikes are related to behavior.  It can analyze and quantify behavior, especially in the context of eye movements and working memory.  It can also align neural data to these behaviors to help determine how neural activity changes drive these behaviors.  
+[Customer Lifetime Value Webinar](https://www.datascience.com/blog/using-probabilistic-models-to-predict-customer-lifetime-value)
 
-[Behavioral and Neural Analysis Toolkit](https://github.com/CPapadim/Behavioral-and-Neural-Analysis-Toolkit)
+## Overview of Supervised Machine Learning
 
-![](https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/BehaviorNeural.png)
+In this series I cover supervised learning.  I start by covering the two competing goals of supervised learning (reducing error, and regularizing to reduce complexity, aka. bias / variance tradeoff, aka. over / underfitting).  I then discuss theory and intuition behind each algorithm, and provide code snippets for simple implementations.  
 
-***
-# Experimental Design
+[Part 1 - Algorithms With Linear Decision Boundaries](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-1.ipynb)
 
-In order to tell a good story you have to do the `right experiment`.  Below is a document outlining one of my experimental designs to study working memory.  This design won a highly competitive `N.R.S.A grant (~$150,000 in funding) from the National Institutes of Health`.
-
-[Experimental Design Document](https://github.com/CPapadim/cpapadim.github.io/blob/master/other/ExperimentalDesign.pdf)
-
-These are some of the reviews of the design:
->"`Very clever set of experiments` to determine whether decay of behavioral spatial working memory can be related to changes in the correlated tuning curves of neurons in DLPC with overlapping receptive fields."
-
->"`This is a very well developed research plan` aimed at testing complex cortical attractor networks in the extinction of spatial working memory..."
+[Part 2 - Algorithms With Non-Linear Decision Boundaries](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-2.ipynb)
 
 ***
 # Research
@@ -92,9 +82,46 @@ These are some reviews of this work:
 >“[This work] to my view represents `a particularly nice coupling of theory and experiment.`”
 
 ***
+
+# Analysis Packages
+In the pursuit to understand and tell the right story, we often need to build custom tools.  
+
+## Signal Processing Toolkit
+
+When the Snyder Laboratory wanted to expand into analysis of local field potentials, I stepped up to develop this package to help me and other lab mates analyze and understand how brains work.  It can analyze `time series` of action potentials and local field potentials from the brain in both the `frequency` and `time` domains to help users uncover how these different brain signals relate to each other and contribute to driving behavior.  
+
+[Signal Processing Toolkit](https://github.com/CPapadim/Signal-Processing-Toolkit)
+
+![](https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/LFP1.png)
+![](https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/LFP2.png)
+
+This tool is now being used by a new generation of upcoming scientists in the Snyder Laboratory. 
+
+## Behavioral and Neural Analysis Toolkit
+
+I wrote this package to determine how neuron spikes are related to behavior.  It can analyze and quantify behavior, especially in the context of eye movements and working memory.  It can also align neural data to these behaviors to help determine how neural activity changes drive these behaviors.  
+
+[Behavioral and Neural Analysis Toolkit](https://github.com/CPapadim/Behavioral-and-Neural-Analysis-Toolkit)
+
+![](https://raw.githubusercontent.com/CPapadim/cpapadim.github.io/master/other/BehaviorNeural.png)
+
+***
+
+# Experimental Design
+
+In order to tell a good story you have to do the `right experiment`.  Below is a document outlining one of my experimental designs to study working memory.  This design won a highly competitive `N.R.S.A grant (~$150,000 in funding) from the National Institutes of Health`.
+
+[Experimental Design Document](https://github.com/CPapadim/cpapadim.github.io/blob/master/other/ExperimentalDesign.pdf)
+
+These are some of the reviews of the design:
+>"`Very clever set of experiments` to determine whether decay of behavioral spatial working memory can be related to changes in the correlated tuning curves of neurons in DLPC with overlapping receptive fields."
+
+>"`This is a very well developed research plan` aimed at testing complex cortical attractor networks in the extinction of spatial working memory..."
+
+
 # Consulting Work
 
-Not all stories I tell have an academic focus.  I've also worked as a `consultant` and `project manager` to provide `analysis and data-based insights` for a number of companies in various industries.  Below you can see a couple of examples of the types of projects I worked on.  Due to NDAs and other confidentiality agreements, most of the content has been redacted, but you can get a general idea of the types of projects and work I've done.
+I've also worked as a `consultant` and `project manager` to provide `analysis and data-based insights` for a number of companies in various industries.  Below you can see a couple of examples of the types of projects I worked on.  Due to NDAs and other confidentiality agreements, most of the content has been redacted, but you can get a general idea of the types of projects and work I've done.
 
 [Project 1:  Evaluate investment opportunities](https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BusinessAnalysisProject1.pdf)
 
@@ -133,30 +160,6 @@ People have used all sorts of cool methods to analyze music, from `spectrograms`
 
 [Music Classification](https://github.com/CPapadim/Music-Classification/blob/master/MusicClassification.ipynb)
 
-***
-# Teaching Data Science
-
-I have also created and presented materials including seminars, hands-on labs, and tutorials to intuitively teach data science concepts to others, including Data Scientists and C-Level executives.  Most of this is proprietary work, but you can see some public examples below.
-
-## Overview of Supervised Machine Learning
-
-In this series I cover supervised learning.  I start by covering the two competing goals of supervised learning (reducing error, and regularizing to reduce complexity, aka. bias / variance tradeoff, aka. over / underfitting).  I then discuss theory and intuition behind each algorithm, and provide code snippets for simple implementations.  
-
-[Part 1 - Algorithms With Linear Decision Boundaries](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-1.ipynb)
-
-[Part 2 - Algorithms With Non-Linear Decision Boundaries](https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-2.ipynb)
-
-## Image Recognition With Deep Learning
-
-In this seminar I cover concepts behind deep convolutional neural network in the context of image recognition.  There is also a hands on lab in which we build a simple CNN from scratch, and use data augmentation methods to improve generalizability of the network.  We also learn how to use a pre-trained network and fine-tune it to our data.  Finally, we talk about how to interpret neural network models to make sure they are using the correct parts of the images in their tasks.
-
-[Image Recognition With Deep Learning Webinar](https://www.datascience.com/typ/image-recognition-with-deep-learning?submissionGuid=f38f78e8-227b-4cbb-9fe3-84d3601ce44a)
-
-## Customer Lifetime Value
-
-My Customer Life Value seminar.  The seminar includes a 1-hour hands on lab in which we use MCMC methods (PyMC3) to build and fit a Pareto / NBD model.
-
-[Customer Lifetime Value Webinar](https://www.datascience.com/blog/using-probabilistic-models-to-predict-customer-lifetime-value)
 
 ***
 # The Arts
