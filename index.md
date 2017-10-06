@@ -187,7 +187,7 @@ You can find the code here:
 <div class="section-content">
 <h2>Music Classification</h2>
 
-People have used all sorts of cool methods to analyze music, from `spectrograms` to `Recurrent Neural Networks`.  I wanted to play with a different method.  I thought that music may be thought of as a language, so I used a model that makes use of `Latent Dirichlet Allocation` to extract `topics` from songs, and uses these topics to determine what song a short song-sample came from, and which composer wrote the song.  It worked surprisingly well!
+People have used all sorts of cool methods to analyze music, from `spectrograms` to `Recurrent Neural Networks`.  I wanted to play with a different method.  I thought that music may be thought of as a language, so I used a model that makes use of <code class="highlighter-rouge">Latent Dirichlet Allocation</code> to extract `topics` from songs, and uses these topics to determine what song a short song-sample came from, and which composer wrote the song.  It worked surprisingly well!
 <br><br>
 <a href="https://github.com/CPapadim/Music-Classification/blob/master/MusicClassification.ipynb">Music Classification</a>
 
