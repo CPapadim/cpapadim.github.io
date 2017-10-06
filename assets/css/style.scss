@@ -15,9 +15,11 @@ section table {
 
 div.section-content:hover {
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  transform:translate(0px, -3px);
   transition: 0.3s;
 }
 
 div.section-content {
+  padding:10px;
   margin-bottom:15px;
 }
