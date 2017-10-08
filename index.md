@@ -145,6 +145,7 @@ These are some of the reviews of the design:
 
 >"`This is a very well developed research plan` aimed at testing complex cortical attractor networks in the extinction of spatial working memory..."
 
+***
 
 <div class="section-content">
 <h1>Consulting Work</h1>
