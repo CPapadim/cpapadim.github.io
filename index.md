@@ -16,7 +16,7 @@ I have created and presented materials including seminars, hands-on labs, and tu
 
 <div class="section-content">
 <h2>Image Recognition With Deep Learning</h2>
-
+<img src = "https://github.com/CPapadim/cpapadim.github.io/raw/master/other/nnfilters.png">
 In this seminar I cover concepts behind deep convolutional neural network in the context of image recognition.  There is also a hands on lab in which we build a simple CNN from scratch, and use data augmentation methods to improve generalizability of the network.  We also learn how to use a pre-trained network and fine-tune it to our data.  Finally, we talk about how to interpret neural network models to make sure they are using the correct parts of the images in their tasks.
 <br><br>
 <a href="https://www.datascience.com/typ/image-recognition-with-deep-learning?submissionGuid=f38f78e8-227b-4cbb-9fe3-84d3601ce44a">Image Recognition With Deep Learning Webinar</a>
@@ -25,6 +25,7 @@ In this seminar I cover concepts behind deep convolutional neural network in the
 <div class="section-content">
 <h2>Customer Lifetime Value</h2>
 
+<img src = "https://github.com/CPapadim/cpapadim.github.io/raw/master/other/clvseminar.png">
 My Customer Life Value seminar.  The seminar includes a 1-hour hands on lab in which we use MCMC methods (PyMC3) to build and fit a Pareto / NBD model.
 <br><br>
 <a href = "https://www.datascience.com/blog/using-probabilistic-models-to-predict-customer-lifetime-value">Customer Lifetime Value Webinar</a>
@@ -43,7 +44,7 @@ In this series I cover supervised learning.  I start by covering the two competi
 
 <div class="section-content">
 <h2>Connecting Tableau to Model APIs</h2>
-
+<img src = "https://github.com/CPapadim/cpapadim.github.io/raw/master/other/api_to_tableau.png">
 This tutorial includes both recorded videos and blog-style posts and was created to help those looking to connect Tableau to deployed model APIs as data sources to feed dashboards.  It includes example code for setting up a Flask server, as well as code showing how to use Tableau's Javascript Web Data Connector.
 <br><br>
 <a href = "http://connecttableau.datascience.com/">Connecting Tableau to Model APIs</a>
