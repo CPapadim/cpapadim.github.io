@@ -40,6 +40,17 @@ In this series I cover supervised learning.  I start by covering the two competi
 <a href ="https://github.com/CPapadim/ds_tutorials/blob/master/supervised_learning/supervised-learning-part-2.ipynb">Part 2 - Algorithms With Non-Linear Decision Boundaries</a>
 
 </div>
+
+<div class="section-content">
+<h2>Connecting Tableau to Model APIs</h2>
+
+This tutorial includes both recorded videos and blog-style posts and was created to help those looking to connect Tableau to deployed model APIs as data sources to feed dashboards.  It includes example code for setting up a Flask server, as well as code showing how to use Tableau's Javascript Web Data Connector.
+<br><br>
+<a href = "http://connecttableau.datascience.com/">Connecting Tableau to Model APIs</a>
+
+</div>
+
+
 ***
 <div class="section-content">
 <h1>Research</h1>
