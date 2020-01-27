@@ -1,6 +1,6 @@
 # Hello, I'm Charalampos (Harry),
 
-| <img style="width:99px; max-width:99px" src = "https://github.com/CPapadim/cpapadim.github.io/raw/master/other/profile_photo.jpg"> |I'm an experienced Data Scientist and Researcher with over a decade of experience in modeling and analytics, specializing in both applied and theoretical machine learning, as well as experimental design.  I'm a `quantitative storyteller`, and passionate about making data science more accessible through intuitive communication of technical concepts.  I've worked on a number of business challenges, including sales forecasting, marketing problems, image processing, recommendation systems, and many others.  Previously, I worked as a computational neuroscience researcher at Washington University in St. Louis, where I modeled the dynamics of working memory neural circuits.|
+| <img style="width:99px; max-width:99px" src = "https://github.com/CPapadim/cpapadim.github.io/raw/master/other/profile_photo.jpg"> |I'm an experienced Data Science Leader and Researcher with over a decade of experience in modeling and analytics, specializing in both applied and theoretical machine learning, as well as experimental design.  I'm a quantitative storyteller, and passionate about making data science more accessible through intuitive communication of technical concepts.  I've worked on a number of business challenges, including sales forecasting, marketing problems, image processing, recommendation systems, and many others.  Previously, I worked as a computational neuroscience researcher at Washington University in St. Louis, where I modeled the dynamics of working memory neural circuits.|
 | ------------ | ------------- |
 | | [LinkedIn](https://www.linkedin.com/in/charalampospapadimitriou/) |
 
@@ -163,9 +163,11 @@ These are some of the reviews of the design:
 ***
 
 <div class="section-content">
-<h1>Consulting Work</h1>
+<h1>Business Consulting Work</h1>
 
-I've also worked as a <code class="highlighter-rouge">consultant</code> and <code class="highlighter-rouge">project manager</code> to provide <code class="highlighter-rouge">analysis and data-based insights</code> for a number of companies in various industries.  Below you can see a couple of examples of the types of projects I worked on.  Due to NDAs and other confidentiality agreements, most of the content has been redacted, but you can get a general idea of the types of projects and work I've done.
+I've also worked as a <code class="highlighter-rouge">business consultant</code> and <code class="highlighter-rouge">project manager</code> to provide <code class="highlighter-rouge">analysis and data-based insights</code> for a number of companies in various industries.  
+
+Below you can see a couple of examples of the types of projects I worked on.  Due to NDAs and other confidentiality agreements, most of the content has been redacted, but you can get a general idea of the types of projects and work I've done.
 <br><br>
 <a href="https://github.com/CPapadim/cpapadim.github.io/raw/master/other/BusinessAnalysisProject1.pdf">Project 1:  Evaluate investment opportunities</a>
 <br><br>
